@@ -8,4 +8,12 @@
 - Creating variables.
 - Assigne something on that variables.
 -  How to craete a string.
+
+ ## Day three
+ - I did strings and files
+ - Indexing strings and slicing
+ - Length of a string
+ - Concatenation
+ -  Formatting
+ - Methods like: uppercase, lower cases,...
     
