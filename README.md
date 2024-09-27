@@ -23,4 +23,8 @@
 - Checking the status of your folder.
 - Commit changes. 
 - Push the changes to your github repository.
+
+## Day five
+- list.
+- Dictitionally.
     
