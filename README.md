@@ -26,5 +26,5 @@
 
 ## Day five
 - list.
-- Dictitionally.
+- Dictionaries.
     
