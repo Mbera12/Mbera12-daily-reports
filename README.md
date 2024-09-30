@@ -27,4 +27,13 @@
 ## Day five
 - list.
 - Dictionaries.
+
+## Day six
+-  Conditional Structure.
+-  if clause.
+-  Instructions with the if...elif...else clause.
+-  Instructions with the if...else clause.
+-  Loop Instructions.
+-  List Comprehension
+-  Break and Continue statements in while... or for... in... loops
     
