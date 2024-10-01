@@ -36,4 +36,7 @@
 -  Loop Instructions.
 -  List Comprehension
 -  Break and Continue statements in while... or for... in... loops
+
+## Day seven
+- I did an exercises which contain all we did from the day one until now.
     
