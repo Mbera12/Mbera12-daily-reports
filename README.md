@@ -14,7 +14,7 @@
  - Length of a string
  - Concatenation
  -  Formatting
- - Methods like: uppercase, lower cases,...
+ - Methods like: uppercase, lower cases,...  
 
 ## Day four
 - All about git.
@@ -39,6 +39,8 @@
 
 ## Day seven
 - I did an exercises which contain all we did from the day one until now.
+## Day eigtht 
+we did a prictice challenge which contain all we did from the day one.
 
 ## Day eight
 - Functions, Modules, and Packages
