@@ -39,11 +39,10 @@
 
 ## Day seven
 - I did an exercises which contain all we did from the day one until now.
-## Day eigtht 
-we did a prictice challenge which contain all we did from the day one.
-
 ## Day eight
 - Functions, Modules, and Packages
 - This concepts include functions, modules, and packages are foundational to writing effective and maintainable Python code.
+## Day nine 
+we did a prictice challenge which contain all we did from the day one.
 
     
