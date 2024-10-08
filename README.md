@@ -47,6 +47,8 @@ we did a prictice challenge which contain all we did from the day one.
 ## Day ten
 - I continue Chellenge practice
 ## Day eleven
-- We studied about package called numpy. 
+- We studied about package called numpy.
+## Day twelve 
+- I did many more practice about numpy.(practice 6)
 
     
