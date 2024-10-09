@@ -50,5 +50,7 @@ we did a prictice challenge which contain all we did from the day one.
 - We studied about package called numpy.
 ## Day twelve 
 - I did many more practice about numpy.(practice 6)
+## Day thirteen 
+- Matplotlib
 
     
