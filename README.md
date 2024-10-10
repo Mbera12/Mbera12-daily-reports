@@ -40,17 +40,19 @@
 ## Day seven
 - I did an exercises which contain all we did from the day one until now.
 ## Day eight
-- Functions, Modules, and Packages
+- Functions, Modules, and Packages.
 - This concepts include functions, modules, and packages are foundational to writing effective and maintainable Python code.
 ## Day nine 
 we did a prictice challenge which contain all we did from the day one.
 ## Day ten
-- I continue Chellenge practice
+- I continue Chellenge practice.
 ## Day eleven
 - We studied about package called numpy.
 ## Day twelve 
-- I did many more practice about numpy.(practice 6)
+- I did many more practice about numpy.(practice 6).
 ## Day thirteen 
-- Matplotlib
+- Matplotlib.
+## Day fourteen
+- Challenge three.
 
     
